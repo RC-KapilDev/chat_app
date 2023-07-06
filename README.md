@@ -5,7 +5,7 @@ Chat app built using Firebase to chat with registered users
 <table>
     <thead>
       <tr>
-        <th><img src='images\redmeimg\page1.jpg' width=300 height=550>
+        <th><img src='images\redmeimg\page5.jpg' width=300 height=550>
           </th>
         <th><img src='images\redmeimg\page2.jpg' width =300 height=550></th>
         <th><img src='images\redmeimg\page3.jpg' width =300 height=550></th>
@@ -18,7 +18,7 @@ Chat app built using Firebase to chat with registered users
     </tbody>
 
 
-![](images\redmeimg\page1.jpg)
+![](images\redmeimg\page5.jpg)
 ![](images\redmeimg\page2.jpg)
 ![](images\redmeimg\page3.jpg)
 ![](images\redmeimg\page4.jpg)
