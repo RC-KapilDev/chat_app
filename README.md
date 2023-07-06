@@ -1,8 +1,32 @@
 # flash_chat
 
-A new Flutter project.
+Chat app built using Firebase to chat with registered users
+
+<table>
+    <thead>
+      <tr>
+        <th><img src='images\redmeimg\page1.jpg' width=300 height=550>
+          </th>
+        <th><img src='images\redmeimg\page2.jpg' width =300 height=550></th>
+        <th><img src='images\redmeimg\page3.jpg' width =300 height=550></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><img src='images\redmeimg\page4.jpg' width =300 height=550></td>
+      </tr>
+    </tbody>
+
+
+![](images\redmeimg\page1.jpg)
+![](images\redmeimg\page2.jpg)
+![](images\redmeimg\page3.jpg)
+![](images\redmeimg\page4.jpg)
 
 ## Getting Started
+
+It uses Firebase as it's back end so use dart packages like firebase auth ,firestore .
+Try to read the pubspec to know about the used dependencies
 
 This project is a starting point for a Flutter application.
 
