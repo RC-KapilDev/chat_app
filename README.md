@@ -21,6 +21,7 @@ User-Friendly Interface: The Flash Chat App incorporates a sleek and intuitive u
     <tr>
      <th></th>
       <th></th>
+     <th></th>
       <th></th></th>
   </tr>
     <tr>
